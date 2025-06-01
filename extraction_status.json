@@ -1,0 +1,38 @@
+{
+  "cloze_extraction": {
+    "status": "partial",
+    "completed": [
+      "user_profile"
+    ],
+    "pending": [
+      "contacts",
+      "companies",
+      "tasks",
+      "deals",
+      "interactions"
+    ],
+    "notes": "User profile extracted. Search endpoints returning 404."
+  },
+  "notion_analysis": {
+    "status": "ready",
+    "data_file": "notion_for_codex.json",
+    "insights": {
+      "main_project": "Utilyze™ - Automated Background Check Platform",
+      "categories": [
+        "Product Docs",
+        "Technical Architecture",
+        "API Integration",
+        "AI Infrastructure"
+      ],
+      "page_count": "20+",
+      "last_activity": "2025-05-30"
+    }
+  },
+  "integration_opportunities": [
+    "Sync Utilyze project status with Cloze opportunities",
+    "Link Notion documentation to Cloze customer communications",
+    "Create unified task management across both platforms",
+    "Map technical stakeholders to CRM contacts",
+    "Automate milestone updates between systems"
+  ]
+}

@@ -1,0 +1,31 @@
+# Environment variables
+.env
+*.env
+
+# API Keys and Credentials
+*_api_key*
+*credentials*
+
+# Personal data files
+cloze_user_profile.json
+cloze_extraction_summary.json
+
+# Node modules (if any)
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Sensitive data
+*sensitive*
+*private*

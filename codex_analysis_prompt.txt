@@ -1,0 +1,23 @@
+
+# Notion Data Analysis Task
+
+Read the file: notion_for_codex.json
+
+Analyze the Notion workspace structure and create:
+
+1. **Visual Workspace Map**
+   - Show hierarchy of projects and pages
+   - Identify relationships between documents
+   - Map information architecture
+
+2. **Integration Strategy**
+   - How to sync with Cloze CRM
+   - Which data should be synchronized
+   - Automation recommendations
+
+3. **Key Insights**
+   - Most active areas
+   - Documentation patterns
+   - Workflow opportunities
+
+Save your analysis to: notion_analysis_complete.md

@@ -1,0 +1,122 @@
+{
+  "metadata": {
+    "extraction_date": "2025-06-01",
+    "total_pages_found": 20,
+    "has_more_pages": true,
+    "primary_workspace": "rightful-geese-a54"
+  },
+  
+  "workspace_structure": {
+    "main_projects": [
+      {
+        "name": "Utilyze/Vuplicity",
+        "type": "Background Check Automation Platform",
+        "pages": [
+          "Product Requirements Document",
+          "API Sources",
+          "Build Docs",
+          "Application Flows (MVP)",
+          "Platform Functionality (MVP)",
+          "Technology Stack",
+          "Project Status",
+          "Frontend Structure",
+          "Backend Structure"
+        ]
+      },
+      {
+        "name": "AI Agent System",
+        "type": "AI Infrastructure",
+        "pages": [
+          "AI Agent Onboarding & MCP Configuration System"
+        ]
+      }
+    ]
+  },
+  
+  "pages_by_category": {
+    "product_documentation": [
+      {
+        "id": "1f1541ef-3542-809a-9b6a-fc851cb26e64",
+        "title": "Product Requirements Document: Automated Background Check Platform (\"Utilyze™\")",
+        "last_edited": "2025-05-18T18:21:00.000Z"
+      }
+    ],
+    
+    "technical_documentation": [
+      {
+        "id": "1f1541ef-3542-80d0-b423-edb6107a386a",
+        "title": "Build Docs",
+        "last_edited": "2025-05-17T14:21:00.000Z"
+      },
+      {
+        "id": "1f2541ef-3542-80e9-96aa-deb971e1049b",
+        "title": "API Sources",
+        "last_edited": "2025-05-17T14:26:00.000Z"
+      },
+      {
+        "id": "1f1541ef-3542-800a-988e-e23949936149",
+        "title": "Utilyze AUG - Technology Stack",
+        "last_edited": "2025-05-12T21:21:00.000Z"
+      }
+    ],
+    
+    "architecture_design": [
+      {
+        "id": "1f1541ef-3542-8024-a6d6-d3be1c53e2ca",
+        "title": "Utilyze - Frontend Structure",
+        "last_edited": "2025-05-12T21:16:00.000Z"
+      },
+      {
+        "id": "1f1541ef-3542-80a6-bac2-f84188e11ff1",
+        "title": "Utilyze - Backend Structure",
+        "last_edited": "2025-05-12T21:15:00.000Z"
+      },
+      {
+        "id": "1f1541ef-3542-8068-97db-de1d3edbe296",
+        "title": "Utilyze - Application Flows (MVP)",
+        "last_edited": "2025-05-14T02:15:00.000Z"
+      }
+    ],
+    
+    "ai_infrastructure": [
+      {
+        "id": "202541ef-3542-815c-9082-f4fac1eaa1bc",
+        "title": "🤖 AI Agent Onboarding & MCP Configuration System",
+        "last_edited": "2025-05-30T02:25:00.000Z"
+      }
+    ],
+    
+    "project_management": [
+      {
+        "id": "1f1541ef-3542-80ff-935e-e0afa548c48d",
+        "title": "Utilyze - Project Status",
+        "last_edited": "2025-05-12T21:20:00.000Z"
+      },
+      {
+        "id": "1e4541ef-3542-8183-8c9b-d9b4aaee7030",
+        "title": "Milestones & Task Matrix",
+        "last_edited": "2025-05-06T18:10:00.000Z"
+      }
+    ]
+  },
+  
+  "key_insights": {
+    "most_recent_activity": "AI Agent Onboarding & MCP Configuration System (edited 2025-05-30)",
+    "primary_focus": "Utilyze/Vuplicity - Automated Background Check Platform",
+    "documentation_types": [
+      "Product Requirements",
+      "Technical Architecture", 
+      "API Integration",
+      "Project Management",
+      "AI Infrastructure"
+    ],
+    "active_timeframe": "April 2025 - May 2025"
+  },
+  
+  "recommended_actions": [
+    "Sync Notion project tasks with Cloze CRM opportunities",
+    "Create automated status updates from Notion to Cloze",
+    "Link technical documentation to customer communications",
+    "Track project milestones in both systems"
+  ]
+}
