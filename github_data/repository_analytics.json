@@ -1,0 +1,98 @@
+{
+  "total": 30,
+  "public": 30,
+  "private": 0,
+  "byCategory": {
+    "other": 12,
+    "ai-automation": 8,
+    "personal": 2,
+    "tools-utilities": 5,
+    "crypto-web3": 1,
+    "web-projects": 1,
+    "background-check": 1
+  },
+  "byLanguage": {
+    "HTML": 7,
+    "Python": 5,
+    "Shell": 1,
+    "JavaScript": 3,
+    "TypeScript": 3,
+    "Solidity": 1,
+    "CSS": 2,
+    "C#": 1
+  },
+  "recentlyUpdated": [
+    {
+      "name": "ai-trinity-data-extraction",
+      "updated": "2025-06-01T15:13:36Z",
+      "category": "ai-automation"
+    },
+    {
+      "name": "fishrewards-nft",
+      "updated": "2025-05-31T01:58:02Z",
+      "category": "crypto-web3"
+    },
+    {
+      "name": "website-eater",
+      "updated": "2025-05-30T04:17:09Z",
+      "category": "ai-automation"
+    },
+    {
+      "name": "vibe-coder-flashcards",
+      "updated": "2025-05-22T23:45:41Z",
+      "category": "other"
+    },
+    {
+      "name": "RoyalCalcV2",
+      "updated": "2025-05-22T22:13:10Z",
+      "category": "tools-utilities"
+    },
+    {
+      "name": "ACE-Neurologicql",
+      "updated": "2025-05-22T22:11:44Z",
+      "category": "other"
+    },
+    {
+      "name": "Overseer",
+      "updated": "2025-05-22T22:11:33Z",
+      "category": "ai-automation"
+    },
+    {
+      "name": "heygen-mcp-adapter",
+      "updated": "2025-05-22T20:48:26Z",
+      "category": "ai-automation"
+    },
+    {
+      "name": "FlashCardsofPOWER",
+      "updated": "2025-05-21T14:53:08Z",
+      "category": "tools-utilities"
+    },
+    {
+      "name": "ai-image-animation-pipeline",
+      "updated": "2025-05-20T23:53:41Z",
+      "category": "ai-automation"
+    }
+  ],
+  "mostStarred": [
+    {
+      "name": "fishrewards-nft",
+      "stars": 1
+    },
+    {
+      "name": "loyalty-login",
+      "stars": 1
+    },
+    {
+      "name": "Overseer",
+      "stars": 1
+    },
+    {
+      "name": "ACE-Neurologicql",
+      "stars": 0
+    },
+    {
+      "name": "ACE-Test",
+      "stars": 0
+    }
+  ]
+}
